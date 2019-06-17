@@ -1,8 +1,7 @@
 <template>
     <div>
-        <h1>test</h1>
+        <h1>Market coincap</h1>
         <b-table striped borderless responsive hover :items="listData" :fields="fields"></b-table>
-        <h1>test2</h1>
     </div>
 </template>
 <script>
